@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hero-img{
+    width:20rem;
+    height: 25rem;
+    background-color: #13131313;
+    border-radius: 50%;
+}
+footer{
+    background-color: black;
+}
+i{
+    margin: 1rem;
+    
+}
+#service{
+    
+}
+.card{
+    background-color:lightblue;
+}
+.col-md-3{
+    padding-left: 20rem;
+    margin-left: 5rem;
+}
+.img-logo{
+    width: 10%;
+}
+
+  body {
+      position: relative; 
+  }
+  
+    
+    
+
+
